@@ -1,0 +1,11 @@
+(defvar rd)
+(defun Element ()
+  (setq a (list 1 2 3 4))
+  (terpri)
+  (princ "Enter The number:")
+  (setq rd (read))
+  (setq rd (+ rd 1))
+  (write (position rd a))
+  )
+(Element)
+
