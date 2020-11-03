@@ -1,0 +1,1 @@
+This is the new demo.txt file. Created for the demo purpose to show the Merge 
